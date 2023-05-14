@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "cors": "^2.8.5"
+  }
+}
